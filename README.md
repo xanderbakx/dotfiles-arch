@@ -6,4 +6,4 @@ my dotfiles are dope.
 
 
 # First Rice
-![alt text](/screenshots/scrot.png "Screenshot")
+![alt text](/screenshots/first_rice.png "Screenshot")
