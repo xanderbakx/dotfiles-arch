@@ -1,0 +1,40 @@
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+**/spotify/
+**/nvim/plugged/
+**/configstore/
+**/libreoffice/
+**/transmission-daemon/
+**/vlc/
+**/plugged/
+
+mimeapps.list
+Trolltech.conf
+
+# Vim
+
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
