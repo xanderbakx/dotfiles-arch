@@ -1,0 +1,25 @@
+{
+   "background": {
+      "page": "js/bg.html"
+   },
+   "browser_action": {
+      "default_icon": "js/img/ha_19_inactive.png",
+      "default_popup": "js/popup.html",
+      "default_title": "Hola Video Accelerator"
+   },
+   "content_scripts": [ {
+      "js": [ "js/tag_html.js" ],
+      "matches": [ "*://*.hola.org/*" ]
+   } ],
+   "icons": {
+      "128": "js/img/ha_128.png",
+      "16": "js/img/ha_16.png",
+      "48": "js/img/ha_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw7jc7teP2osHi/athniNp8gakU4i7A3vv0xj/wxKEqc0ZuL2dFWQcWA6aLGsdnVyNeaonCk4K1NtPpBlqnA7kwC5a0VxRIOofXyMlC+p60W8ANMUX7SnGxm8fihtpcagLnHu2pJx3kjv6AoSVuPgLILVakFM5e/NrgMuBirxKnc+gXuXRxHBQOfXZNaWuP3Fn+FFrx0Xj9r0KA3eKkTaS2zbsoI3lyDtKdfO0KiqCkgEFP8B1sCJeDZYb4CG3K091CrKEu37MMbrCnfbX1laaJXzCeT5+3jUXXumSg+d6utvLyQ2djLIumIRxCxFoo3w/GtB1XCpZUsoo8Leb1513QIDAQAB",
+   "manifest_version": 2,
+   "name": "Hola Video Accelerator",
+   "permissions": [ "tabs", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.21.320"
+}

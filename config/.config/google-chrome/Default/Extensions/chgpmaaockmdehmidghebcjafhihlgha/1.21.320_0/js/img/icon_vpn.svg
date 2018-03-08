@@ -1,0 +1,21 @@
+<svg id="icon_vpn_Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30">
+  <style>
+    .icon_vpn_0{fill:url(#icon_vpn_Body_1_)}
+  </style>
+  <switch>
+    <g>
+      <radialGradient id="icon_vpn_Body_1_" cx="8.422" cy="1140.557" r="22.738" gradientTransform="matrix(1.0056 0 0 1 5.405 -1117.972)" gradientUnits="userSpaceOnUse">
+        <stop offset=".05" stop-color="#f8af00"/>
+        <stop offset=".174" stop-color="#f29100"/>
+        <stop offset=".4" stop-color="#e95a0c"/>
+        <stop offset=".63" stop-color="#d10a11"/>
+        <stop offset=".797" stop-color="#bf0d0d"/>
+        <stop offset=".956" stop-color="#ad0f0a"/>
+      </radialGradient>
+      <path id="icon_vpn_Body_3_" class="icon_vpn_0" d="M22.9 19.2c.1-2.1-.6-5.6-1.2-7.5-.6-1.8.6-4 .6-4s-.6 0-2 1.3c-1.4 1.2-1.4 2.9-1.4 2.9-1.7-3.9-5-6.4-6.3-8-1.3-1.7-.4-3.9-.4-3.9C9.7 1.1 8.4 3.8 8 7c-.4 3.2-2.4 4.4-2.4 4.4-.3-3-3.8-3.8-3.8-3.8.7.2 1.9 3.7.6 6.2-.9 1.7-1.4 3.5-1.4 5.3.1 6 3.9 10.9 11 10.9 6.5 0 10.9-4.9 10.9-10.8z"/>
+      <ellipse cx="15.5" cy="18" rx="1.5" ry="2"/>
+      <ellipse cx="8.5" cy="18" rx="1.5" ry="2"/>
+      <path d="M19 20c0 4-3 7-7 7s-7-3-7-7H4c0 4.4 3.5 8 8 8s8-3.6 8-8h-1z"/>
+    </g>
+  </switch>
+</svg>

@@ -1,13 +1,14 @@
 " plugins
 
-call plug#begin()
+call plug#begin('~/.config/nvim/plugged')
 
+Plug 'prettier/vim-prettier', {
+  \ 'do': 'yarn install',
+  \ 'for': ['javascript', 'typescript', 'css', 'less', 'scss', 'json', 'graphql', 'markdown', 'vue'] }
+Plug 'sbdchd/neoformat'
 Plug 'airblade/vim-gitgutter'
-Plug 'Chiel92/vim-autoformat'
-Plug 'easymotion/vim-easymotion'
 Plug 'farmergreg/vim-lastplace'
 Plug 'jiangmiao/auto-pairs'
-Plug 'maxbrunsfeld/vim-yankstack'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'pbrisbin/vim-mkdir'
 Plug 'thinca/vim-quickrun'
@@ -18,10 +19,12 @@ Plug 'tpope/vim-surround'
 Plug 'itchyny/lightline.vim'
 Plug 'w0rp/ale'
 Plug '907th/vim-auto-save'
-Plug 'flazz/vim-colorschemes'
 Plug 'mattn/emmet-vim'
 Plug 'PotatoesMaster/i3-vim-syntax'
 Plug 'junegunn/goyo.vim'
+Plug 'roxma/nvim-yarp'
+Plug 'roxma/vim-hug-neovim-rpc'
+Plug 'dracula/vim',{'as':'dracula'}
 
 "" fuzzy finder
 
@@ -48,7 +51,6 @@ set nolazyredraw
 set nowritebackup
 set swapfile
 set tildeop
-set ttyfast
 set visualbell
 set wildmenu
 set wildmode=full
@@ -128,10 +130,13 @@ nnoremap <leader>r :Ag<cr>
 
 "" autoformat
 
-autocmd Rc BufEnter,BufWinEnter,BufRead,BufNewFile *
-			\ if &filetype == "" | set filetype=text | endif
-autocmd Rc BufWrite * :Autoformat
+augroup fmt
+  autocmd!
+  autocmd BufWritePre * undojoin | Neoformat
+augroup END
 
+let g:prettier#autoformat = 0
+autocmd BufWrite *.js,*.jsx,*.mjs,*.ts,*.tsx,*.css,*.less,*.scss,*.json,*.graphql,*.md,*.vue Prettier
 
 "" auto-save
 
@@ -152,4 +157,4 @@ colorscheme dracula
 highlight Normal      ctermbg=none
 highlight NonText     ctermbg=none
 highlight EndOfBuffer ctermbg=none
-highlight VertSplit   cterm=none ctermfg=240 ctermbg=240
+highlight VertSplit cterm=none ctermfg=240 ctermbg=240
