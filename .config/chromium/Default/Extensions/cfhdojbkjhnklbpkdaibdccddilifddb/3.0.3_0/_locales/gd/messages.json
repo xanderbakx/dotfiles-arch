@@ -1,0 +1,15 @@
+{
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "Used on over 100 million devices, Adblock Plus is the world's most popular ad blocker."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "overlay_notification_button_no": {
+      "message": "Chan eil"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Tha"
+   }
+}

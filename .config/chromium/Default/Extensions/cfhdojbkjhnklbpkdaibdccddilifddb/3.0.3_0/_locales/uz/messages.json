@@ -1,0 +1,51 @@
+{
+   "add": {
+      "message": "Qo‘shish"
+   },
+   "add_domain_button": {
+      "message": "Domen qo‘shish"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "Used on over 100 million devices, Adblock Plus is the world's most popular ad blocker."
+   },
+   "filters_acceptableAds2_label": {
+      "message": "Ba’zi dilni xira qilmaydigan reklamalarga ruxsat berish"
+   },
+   "filters_addSubscriptionAdd_label": {
+      "message": "Qo‘shish"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "Biz veb-sayt egalariga oddiy, dilni xira qilmaydigan reklamalardan foydalanishni tavsiya etamiz. Shuning uchun biz ma’qul keladigan (odatda, ruxsat berilgan) reklamalarni aniqlash uchun \u003Ca>qat’iy qoidalarni\u003C/a> o‘rnatganmiz. Agar hanuz har qanday reklamani o‘chirib qo‘yishni xohlasnagiz, bir necha soniyadan so‘ng \u003Ca>O‘chirib qo‘yish\u003C/a> tugmasini bosing."
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "Asabga teguvchi reklamalar endi ko‘rinmaydi"
+   },
+   "firstRun_title": {
+      "message": "Adblock Plus o‘rnatildi"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "notification_antiadblock_title": {
+      "message": "Reklamalari xabarlar berkitilsinmi?"
+   },
+   "options": {
+      "message": "Adblock Plus sozlamalari"
+   },
+   "options_language_header": {
+      "message": "Til"
+   },
+   "options_page_document_title": {
+      "message": "Sozlamalar"
+   },
+   "options_page_title": {
+      "message": "Sozlamalar"
+   },
+   "overlay_notification_button_no": {
+      "message": "Yo‘q"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Ha"
+   }
+}

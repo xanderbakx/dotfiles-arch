@@ -1,0 +1,24 @@
+{
+  "add_filter_button": {
+    "message": "زیادکردنی فلتەر"
+  },
+  "description": {
+    "description": "Note: this cannot be longer than 132 characters",
+    "message": "Used on over 100 million devices, Adblock Plus is the world's most popular ad blocker."
+  },
+  "name": {
+    "message": "Adblock Plus"
+  },
+  "options_short": {
+    "message": "هەڵبژاردنەکان"
+  },
+  "overlay_notification_button_no": {
+    "message": "نەخێر"
+  },
+  "overlay_notification_button_yes": {
+    "message": "بەڵێ"
+  },
+  "subscriptionSelection_title_label": {
+    "message": "ناونیشانی بەشداریکردن:"
+  }
+}

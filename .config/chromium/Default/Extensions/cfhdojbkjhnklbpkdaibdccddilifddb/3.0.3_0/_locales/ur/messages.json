@@ -1,0 +1,39 @@
+{
+   "add": {
+      "message": "اندراج کریں"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "Used on over 100 million devices, Adblock Plus is the world's most popular ad blocker."
+   },
+   "filters_acceptableAds2_label": {
+      "message": "کچھ غیر دخل اشتہار بازی کی اجازت دیں"
+   },
+   "filters_addSubscriptionAdd_label": {
+      "message": "اندراج کریں"
+   },
+   "firstRun_acceptableAdsExplanation": {
+      "message": "ہم براہ راست, وزرڈ ونیت اشتہارات کو استعمال کرنے کے لیے ویب سائٹس کی حوصلہ افزائی کرنا چاہوں گا ۔ یہی وجہ ہے کہ ہم قابل قبول اشتہارات، جس کے تحت طے شدہ سیٹنگیں دکھائے جاتے ہیں کی شناخت کے لیے \u003Ca>سخت ہدایات\u003C/a> قائم کرچکے ہیں ۔ آپ اب بھی ہر اشتہار کو بلاک کرنا چاہتے ہیں تو آپ \u003Ca>کو غیر فعال\u003C/a> یہ چند سیکنڈ میں کر سکتے ہیں ۔"
+   },
+   "firstRun_acceptableAdsHeadline": {
+      "message": "پریشان کن اشتہارات اب بند کر دیے جائیں گے"
+   },
+   "firstRun_title": {
+      "message": "ایڈ بلوک پلس انسٹال ہو چکا ہے"
+   },
+   "name": {
+      "message": "ادبلاک پلس"
+   },
+   "options": {
+      "message": "ایڈ بلوک پلس کے آ پشنز"
+   },
+   "options_page_document_title": {
+      "message": "ترتیبات"
+   },
+   "overlay_notification_button_no": {
+      "message": "نہیں"
+   },
+   "overlay_notification_button_yes": {
+      "message": "ہاں"
+   }
+}

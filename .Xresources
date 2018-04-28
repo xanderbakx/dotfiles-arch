@@ -1,1 +1,60 @@
-/home/xander/.Xresources
+Xft.dpi: 221
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+Xcursor.theme: Adwaita
+Xcursor.size: 16
+
+! Dracula Xresources palette
+*.foreground: #F8F8F2
+*.background: #2B303b
+
+*.color0:     #000000
+! Gray
+*.color8:     #4D4D4D
+! Orange
+*.color1:     #FF5555
+*.color9:     #FF6E67
+! Green
+*.color2:     #50FA7B
+*.color10:    #5AF78E
+! Yellow
+*.color3:     #F1FA8C
+*.color11:    #F4F99D
+! Purple
+*.color4:     #BD93F9
+*.color12:    #CAA9FA
+! Pink
+*.color5:     #FF79C6
+*.color13:    #FF92D0
+! Blue
+*.color6:     #8BE9FD
+*.color14:    #9AEDFE
+! Gray
+*.color7:     #BFBFBF
+*.color15: #E6E6E6
+
+rofi.separator-style: solid
+rofi.sidebar-mode: true
+rofi.bw: 1
+rofi.columns: 1
+rofi.padding: 16
+
+!                  bg         border   separator
+rofi.color-window: #2b303b, #000000, #000000
+!                  bg         fg       altbg      hlbg       hlfg
+rofi.color-normal: #2b303b, #bfbfbf, #2b303b, #9aedfe, #2b303b
+rofi.color-active: #8fa1b3, #2b303b
+rofi.color-urgent: #dd002b36, #d33682, #00002b36, #dd073642, #d33682
+
+rofi.yoffset: 0
+rofi.fake-transparency: true 
+rofi.location: 0
+rofi.width: 30
+rofi.font: Monaco_Linux 12 
+rofi.lines: 5
+rofi.fixed-num-lines: true

@@ -1,0 +1,162 @@
+{
+   "add": {
+      "message": "Legg til"
+   },
+   "add_domain_button": {
+      "message": "Legg til domene"
+   },
+   "add_filter_button": {
+      "message": "Legg til filter"
+   },
+   "add_your_own_filters": {
+      "message": "Legg til dine egne filtre"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "Used on over 100 million devices, Adblock Plus is the world's most popular ad blocker."
+   },
+   "enable_only_the": {
+      "message": "Aktiver kun de filterlistene du trenger. For mange filterlister kan gjøre nettleseren treg."
+   },
+   "filter_lists": {
+      "message": "Filterlister"
+   },
+   "filters_acceptableAds2_label": {
+      "message": "Tillat enkelte ikke-påtrengende annonser"
+   },
+   "filters_addSubscriptionAdd_label": {
+      "message": "Legg til"
+   },
+   "filters_addSubscriptionOther_label": {
+      "message": "Legg til et annet abonnement"
+   },
+   "filters_addSubscription_label": {
+      "message": "Legg til filterabonnement"
+   },
+   "filters_readMore_label": {
+      "message": "Les mer"
+   },
+   "filters_subscription_delete_label": {
+      "message": "Slett"
+   },
+   "filters_subscription_enabled_label": {
+      "message": "Aktivert"
+   },
+   "filters_subscription_lastDownload_checksumMismatch": {
+      "message": "Feilet, checksum feil"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Feilet, nedlastningsfeil"
+   },
+   "filters_subscription_lastDownload_inProgress": {
+      "message": "Laster ned..."
+   },
+   "filters_subscription_lastDownload_invalidData": {
+      "message": "Feilet, ikke en gyldig filter liste"
+   },
+   "filters_subscription_lastDownload_invalidURL": {
+      "message": "Feilet, ikke en gyldig adresse"
+   },
+   "filters_viewList_label": {
+      "message": "Vis liste"
+   },
+   "firstRun_title": {
+      "message": "AdBlock Plus er installert"
+   },
+   "global_subscription_invalid_location": {
+      "message": "Filterlisteplasseringen er hverken en gyldig URL-adresse eller et gyldig filnavn."
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Ferdig"
+   },
+   "issueReporter_email_label": {
+      "message": "E-post:"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Personvernserklæring"
+   },
+   "name": {
+      "message": "AdBlock Plus"
+   },
+   "options": {
+      "message": "Adblock Plus-Val"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "Tillat akseptable reklamer"
+   },
+   "options_customFilter_cancel": {
+      "message": "Avbryt"
+   },
+   "options_dialog_about_title": {
+      "message": "Om Adblock Plus"
+   },
+   "options_email": {
+      "message": "E-post:"
+   },
+   "options_filterList_column_name": {
+      "message": "Filterlister"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Feilet, checksum feil"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Feilet, nedlastningsfeil"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Feilet, ikke en gyldig adresse"
+   },
+   "options_filterList_title": {
+      "message": "Filterlister"
+   },
+   "options_filterList_updateNow": {
+      "message": "oppdater nå"
+   },
+   "options_footer_about": {
+      "message": "Om Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Bidra"
+   },
+   "options_language_header": {
+      "message": "Språk"
+   },
+   "options_page_document_title": {
+      "message": "Innstillingar"
+   },
+   "options_page_title": {
+      "message": "Innstillingar"
+   },
+   "options_short": {
+      "message": "Innstillinger"
+   },
+   "out_of_date_lists": {
+      "message": "Utdaterte lister oppdateres jevnlig."
+   },
+   "overlay_notification_button_no": {
+      "message": "Nei"
+   },
+   "overlay_notification_button_yes": {
+      "message": "Ja"
+   },
+   "remove_button": {
+      "message": "Fjern markerte"
+   },
+   "subscriptionSelection_location_label": {
+      "message": "Filterlisteplassering:"
+   },
+   "subscriptionSelection_subscriptionSelector_label": {
+      "message": "Vennligst velg et filterabonnement fra listen:"
+   },
+   "subscriptionSelection_title_label": {
+      "message": "Abonnementstittel:"
+   },
+   "update_now": {
+      "message": "Oppdater nå"
+   },
+   "whitelisted_domains": {
+      "message": "Hvitelistede domener"
+   }
+}

@@ -1,0 +1,107 @@
+{
+   "about_add_new_rule": {
+      "message": "Додади ново правило"
+   },
+   "about_ext_description": {
+      "message": "Екриптирај го Веб-от! Автоматски користи HTTPS сигурност на многу страни."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Насекаде"
+   },
+   "about_rulesets_version": {
+      "message": "Rulesets version for "
+   },
+   "about_title": {
+      "message": "За HTTPS Насекаде"
+   },
+   "about_version": {
+      "message": "Верзија"
+   },
+   "chrome_add_new_rule": {
+      "message": "Додади ново правило за оваа страна"
+   },
+   "chrome_add_rule": {
+      "message": "Додади правило за оваа страна"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Секогаш користи https за овој хост"
+   },
+   "chrome_experimental_rules": {
+      "message": "Експриментални правила"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Може да предизвика предупредувања или оштетувања. Стандардно исклучено."
+   },
+   "chrome_hide_advanced": {
+      "message": "Сокриј напредно"
+   },
+   "chrome_host": {
+      "message": "Хост:"
+   },
+   "chrome_redirect_to": {
+      "message": "Пренасочи кон"
+   },
+   "chrome_regex": {
+      "message": "Одговарачки збор"
+   },
+   "chrome_rule_name": {
+      "message": "Име на правилото"
+   },
+   "chrome_show_advanced": {
+      "message": "Покажи напредно"
+   },
+   "chrome_stable_rules": {
+      "message": "Стабилни правила"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Присили енкриптирани конекции до овие веб страни:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Откажи"
+   },
+   "menu_blockUnencryptedRequests": {
+      "message": "Блокирај ги сите неенкриптирани барања"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Донирај на EFF"
+   },
+   "menu_globalEnable": {
+      "message": "Овозможи HTTPS Насекаде"
+   },
+   "menu_observatory": {
+      "message": "SLL Набљудувачки параметри"
+   },
+   "menu_showCounter": {
+      "message": "Покажи бројач"
+   },
+   "menu_viewAllRules": {
+      "message": "Види ги сите правила"
+   },
+   "options_advancedSettings": {
+      "message": "Advanced Settings"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Auto-update rulesets"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Enable mixed content rulesets"
+   },
+   "options_generalSettings": {
+      "message": "Главни поставки"
+   },
+   "options_import": {
+      "message": "Внеси"
+   },
+   "options_importSettings": {
+      "message": "Внеси поставки"
+   },
+   "options_imported": {
+      "message": "Вашите поставки се внесени."
+   },
+   "prefs_export_settings": {
+      "message": "Изнеси поставки"
+   },
+   "prefs_reset_defaults": {
+      "message": "Врати на стандардни вредности / дифолт."
+   }
+}

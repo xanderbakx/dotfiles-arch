@@ -1,0 +1,36 @@
+{
+   "add_filter_button": {
+      "message": "Cuir scagaire"
+   },
+   "continue": {
+      "message": "Ar Aghaidh"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "Used on over 100 million devices, Adblock Plus is the world's most popular ad blocker."
+   },
+   "filters_addSubscriptionOther_label": {
+      "message": "Cuir síntiús eile leis"
+   },
+   "filters_subscription_delete_label": {
+      "message": "Scrios"
+   },
+   "filters_subscription_enabled_label": {
+      "message": "Cumasaithe"
+   },
+   "filters_subscription_lastDownload_inProgress": {
+      "message": "Ag íosluchtú..."
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "options_short": {
+      "message": "Roghanna"
+   },
+   "subscriptionSelection_location_label": {
+      "message": "Láthair réim an scagaire:"
+   },
+   "subscriptionSelection_title_label": {
+      "message": "Teideal síntiús:"
+   }
+}

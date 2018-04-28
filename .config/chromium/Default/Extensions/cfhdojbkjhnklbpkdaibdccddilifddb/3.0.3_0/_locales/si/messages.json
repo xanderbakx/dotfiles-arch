@@ -1,0 +1,81 @@
+{
+   "add": {
+      "message": "එකතු කරන්න"
+   },
+   "add_filter_button": {
+      "message": "පෙරුමක් එකතු කරන්න"
+   },
+   "cancel": {
+      "message": "අවලංගු කරන්න"
+   },
+   "description": {
+      "description": "Note: this cannot be longer than 132 characters",
+      "message": "Used on over 100 million devices, Adblock Plus is the world's most popular ad blocker."
+   },
+   "filters_addSubscriptionAdd_label": {
+      "message": "එකතු කරන්න"
+   },
+   "filters_addSubscriptionOther_label": {
+      "message": "වෙනත් දායකත්වයක්"
+   },
+   "filters_readMore_label": {
+      "message": "වැඩිදුර කියවන්න"
+   },
+   "filters_subscription_delete_label": {
+      "message": "මකන්න"
+   },
+   "filters_subscription_enabled_label": {
+      "message": "සක්‍රීයයි"
+   },
+   "filters_subscription_lastDownload_checksumMismatch": {
+      "message": "අසාර්ථක විය, පරීක්ෂාකිරීම් ගණනය වෙනස්ය"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "අසාර්ථක විය, බාගතකිරීම අසාර්ථකයි"
+   },
+   "filters_subscription_lastDownload_inProgress": {
+      "message": "බාගත වේ…"
+   },
+   "filters_subscription_lastDownload_invalidData": {
+      "message": "අසාර්ථක විය, වලංගු පෙරහන් නාමාවලියක් නාෙවේ"
+   },
+   "filters_subscription_lastDownload_invalidURL": {
+      "message": "අසාර්ථකයි, වලංගු ලිපිනයක් නාෙවේ"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "දත්ත යවන්න"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "දත්ත යවන්න"
+   },
+   "issueReporter_showData_label": {
+      "message": "යවන ලද දත්ත පෙන්වන්න"
+   },
+   "name": {
+      "message": "ඇඩ්බ්ලොක් ප…"
+   },
+   "options_customFilter_cancel": {
+      "message": "අවලංගු කරන්න"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "අසාර්ථක විය, පරීක්ෂාකිරීම් ගණනය වෙනස්ය"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "අසාර්ථක විය, බාගතකිරීම අසාර්ථකයි"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "අසාර්ථකයි, වලංගු ලිපිනයක් නාෙවේ"
+   },
+   "options_short": {
+      "message": "මනාප"
+   },
+   "overlay_notification_button_no": {
+      "message": "නැත"
+   },
+   "overlay_notification_button_yes": {
+      "message": "ඔව්"
+   },
+   "subscriptionSelection_title_label": {
+      "message": "දායකත්වයේ නම"
+   }
+}
